@@ -1,1 +1,18 @@
+# Docker Project
+
+This project demonstrates containerization using Docker.
+
+## Features
+
+* Dockerized application
+* NGINX web server
+* Docker Compose setup
+* AWS EC2 deployment
+
+## Run Commands
+
+```bash
+docker build -t myapp .
+docker run -d -p 80:80 myapp
+```
 
