@@ -1,9 +1,8 @@
-# devops-portfolio
-# DevOps Projects Portfolio
+# DevOps Portfolio 🚀
 
-Hi, I'm Suryamoorthy, an AWS & DevOps Engineer fresher passionate about cloud infrastructure, automation, and CI/CD.
+Hi, I'm Suryamoorthy, an AWS & DevOps Engineer fresher passionate about cloud infrastructure, CI/CD automation, and container orchestration.
 
-## Skills
+## 🔧 Skills
 
 * AWS
 * Docker
@@ -12,26 +11,37 @@ Hi, I'm Suryamoorthy, an AWS & DevOps Engineer fresher passionate about cloud in
 * Linux
 * Git & GitHub
 * YAML
-* Monitoring Tools
+* Prometheus
+* Grafana
 
-## Projects
+## 📁 Projects
 
-### Docker Multi-Container Project
+### Docker Multi-Container Application
 
-Containerized frontend and backend applications using Docker and Docker Compose.
+* Containerized frontend and backend applications
+* Used Docker Compose for orchestration
+* Deployed on AWS EC2
 
 ### Jenkins CI/CD Pipeline
 
-Built automated CI/CD pipeline for application deployment using Jenkins.
+* Automated build and deployment pipeline
+* Integrated GitHub with Jenkins
+* Built continuous deployment workflow
 
-### Kubernetes Deployment
+### Kubernetes Cluster Deployment
 
-Created and managed Kubernetes cluster and deployed applications using YAML manifests.
+* Created Kubernetes cluster using kubeadm
+* Deployed applications using YAML manifests
+* Managed pods and services
 
 ### Monitoring Stack
 
-Implemented monitoring using Prometheus and Grafana dashboards.
+* Configured Prometheus and Grafana
+* Created dashboards for monitoring containers and servers
 
-## GitHub
+## 🌐 GitHub
+
+https://github.com/Ayrus-kira
+
 
 GitHub: https://github.com/ayrus-kira
